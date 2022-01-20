@@ -1,0 +1,26 @@
+
+/* HEADER */
+
+
+/* ACERCA DE MI */
+.about-me{
+    background-color: rgba(49,49,49,255);
+    color: #747881;
+}
+.titulo-about-me{
+    color: #ffffff;
+    font-size: 1.8rem;
+    border-bottom: 3px solid #cf9d49 !important;
+    display: inline-block;
+    padding-bottom: .5rem;
+    padding-right: 2rem;
+}
+.btn-primary{
+    color: #cf9d49;
+    border: 2px solid;
+    border-color:#cf9d49!important ;
+    background-color: transparent!important;
+}
+
+
+/* PROYECTOS */
